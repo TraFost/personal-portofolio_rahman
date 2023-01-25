@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"id": 1, "title": "NahIki", "about": "Nahiki adalah sebuah website untuk membeli sepatu online yang berbasis di indonesia", "img": "../assets/first_project.png"},
+        {"id": 2, "title": "PlantShop", "about": "PlantShop adalah sebuah website untuk membeli tanaman online yang berbasis di indonesia", "img": "../assets/second_project.png"}, 
+        {"id": 3, "title": "Secret-Message", "about": "secret message adalah sebuah website untuk mengirim pesan rahasia berbasis link", "img": "../assets/third_project.png"} 
+    ]
+}
